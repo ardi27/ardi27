@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PT Solusi Data Madani
+- 🔭 I’m currently working on majoo Teknologi Indonesia
 - 🌱 I’m currently learning Flutter and Go
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
