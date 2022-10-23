@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![@ardi27's Holopin board](https://holopin.me/ardi27)](https://holopin.io/@ardi27)
 
 - 🔭 I’m currently working on majoo Teknologi Indonesia
 - 🌱 I’m currently learning Flutter and Go
@@ -11,3 +10,4 @@
 - ⚡ Fun fact: ... -->
 <img src="https://github-readme-stats.vercel.app/api?username=ardi27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
+[![@ardi27's Holopin board](https://holopin.me/ardi27)](https://holopin.io/@ardi27)
